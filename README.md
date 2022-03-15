@@ -1,4 +1,5 @@
 # iPhone-X-Android-Studio-Emulator-Skin
+*Hello!*  👋
 
 Brings the themes of iPhone X device for Android Studio Emulator.
 
