@@ -1,0 +1,43 @@
+parts {
+    device {
+        display {
+            width 912
+            height 1974
+            x 0
+            y 0
+        }
+    }
+
+    portrait {
+        background {
+            image iPhone Background.png
+        }
+        foreground {
+            mask Notch.png
+        }
+        
+    }
+}
+
+layouts {
+    portrait {
+        width 1038
+        height 2100
+        color 0x00000000
+        event EV_SW:0:1
+        part1 {
+            name portrait
+            x 0
+            y 0
+        }
+        part2 {
+            name device
+            x 64
+            y 64
+        }
+
+    }
+network {
+      speed full
+      delay none
+}
