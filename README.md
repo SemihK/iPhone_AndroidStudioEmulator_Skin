@@ -1,6 +1,8 @@
 # iPhone-X-Android-Studio-Emulator-Skin
 *Hello!*  👋
 
+I designed skins for android developers who don't have a macbook.  (like me 😥)
+
 Brings the themes of iPhone X device for Android Studio Emulator.
 
 *Other IOS devices will be added later.*
