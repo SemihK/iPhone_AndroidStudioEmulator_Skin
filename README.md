@@ -6,9 +6,9 @@ Brings the themes of iPhone X device for Android Studio Emulator.
 *Other IOS devices will be added later.*
 
 # how do i use it?
+* Download iPhone X folder.
 
-The files you downloaded  C:\Users\User\AppData\Local\Android\Sdk\skins\ move it in the folder.
-
+- The files you downloaded  C:\Users\User\AppData\Local\Android\Sdk\skins\ move it in the folder.
 
 - Create a new virtual device in AVD Manager.
 
