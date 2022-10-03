@@ -1,4 +1,4 @@
-# iPhone-X-Android-Studio-Emulator-Skin
+# iPhone 14 Pro Max Dynamic Island Notch and X Notch Android Studio Emulator Skin File
 *Hello!*  👋
 
 I designed skins for android developers who don't have a macbook.  (like me 😥)
