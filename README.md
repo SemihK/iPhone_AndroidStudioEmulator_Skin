@@ -29,3 +29,7 @@ Brings the themes of iPhone X device for Android Studio Emulator.
 > [!INFO] > You can do original scaling in the layout file. > Images may be corrupted!
 
 ![Engelbart](https://i.ibb.co/ckPTk4W/i-Phone-AVD-Readme.png)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/semihkesgin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
