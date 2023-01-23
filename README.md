@@ -28,6 +28,8 @@ Brings the themes of iPhone X device for Android Studio Emulator.
 
 > [!INFO] > You can do original scaling in the layout file. > Images may be corrupted!
 
+![image](https://user-images.githubusercontent.com/18622792/213952188-8342fafe-b2e0-49a9-af52-b6de023682b2.png)
+
 
 
 ### Support Me
