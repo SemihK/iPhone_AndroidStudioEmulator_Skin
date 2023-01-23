@@ -28,7 +28,7 @@ Brings the themes of iPhone X device for Android Studio Emulator.
 
 > [!INFO] > You can do original scaling in the layout file. > Images may be corrupted!
 
-![Engelbart](https://i.ibb.co/ckPTk4W/i-Phone-AVD-Readme.png)
+![Engelbart](https://preview.redd.it/f2zvikeqpmn81.png?width=525&format=png&auto=webp&v=enabled&s=75301b5e403ba2c897032adb4398db54e70284fe
 
 ### Support Me
 
